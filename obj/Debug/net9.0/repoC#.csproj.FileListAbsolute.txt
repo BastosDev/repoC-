@@ -1,0 +1,15 @@
+/home/gusta/Documentos/repoC#/bin/Debug/net9.0/repoC#
+/home/gusta/Documentos/repoC#/bin/Debug/net9.0/repoC#.deps.json
+/home/gusta/Documentos/repoC#/bin/Debug/net9.0/repoC#.runtimeconfig.json
+/home/gusta/Documentos/repoC#/bin/Debug/net9.0/repoC#.dll
+/home/gusta/Documentos/repoC#/bin/Debug/net9.0/repoC#.pdb
+/home/gusta/Documentos/repoC#/obj/Debug/net9.0/repoC#.GeneratedMSBuildEditorConfig.editorconfig
+/home/gusta/Documentos/repoC#/obj/Debug/net9.0/repoC#.AssemblyInfoInputs.cache
+/home/gusta/Documentos/repoC#/obj/Debug/net9.0/repoC#.AssemblyInfo.cs
+/home/gusta/Documentos/repoC#/obj/Debug/net9.0/repoC#.csproj.CoreCompileInputs.cache
+/home/gusta/Documentos/repoC#/obj/Debug/net9.0/repoC#.sourcelink.json
+/home/gusta/Documentos/repoC#/obj/Debug/net9.0/repoC#.dll
+/home/gusta/Documentos/repoC#/obj/Debug/net9.0/refint/repoC#.dll
+/home/gusta/Documentos/repoC#/obj/Debug/net9.0/repoC#.pdb
+/home/gusta/Documentos/repoC#/obj/Debug/net9.0/repoC#.genruntimeconfig.cache
+/home/gusta/Documentos/repoC#/obj/Debug/net9.0/ref/repoC#.dll
