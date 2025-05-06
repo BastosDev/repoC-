@@ -1,4 +1,7 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
-Console.WriteLine("GitHub Commit Test");
+﻿// using repoC_.Models;
+// Pessoa p = new Pessoa();
+// OR
 
+// repoC_.Models.Pessoa p = new repoC_.Models.Pessoa();
+using repoC_.Models;
+Pessoa p = new Pessoa();
